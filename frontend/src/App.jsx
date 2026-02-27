@@ -10,6 +10,9 @@ import MockInterviews from './pages/MockInterviews';
 import Resume from './pages/Resume';
 import Analytics from './pages/Analytics';
 import HRAnswers from './pages/HRAnswers';
+import StudySessions from './pages/StudySessions';
+import AIInsights from './pages/AIInsights';
+import JobSearch from './pages/JobSearch';
 import AdminDashboard from './pages/admin/AdminDashboard';
 import Layout from './components/Layout';
 
@@ -55,6 +58,9 @@ function AppRoutes() {
         <Route path="roadmap" element={<Roadmap />} />
         <Route path="resume" element={<Resume />} />
         <Route path="hr-answers" element={<HRAnswers />} />
+        <Route path="study-sessions" element={<StudySessions />} />
+        <Route path="ai-insights" element={<AIInsights />} />
+        <Route path="job-search" element={<JobSearch />} />
         <Route path="analytics" element={<Analytics />} />
         <Route path="admin" element={<AdminDashboard />} />
       </Route>

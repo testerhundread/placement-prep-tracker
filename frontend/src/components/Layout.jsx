@@ -14,6 +14,9 @@ import {
   UserCircleIcon,
   ShieldCheckIcon,
   ChatBubbleLeftRightIcon,
+  ClockIcon,
+  SparklesIcon,
+  BriefcaseIcon,
 } from '@heroicons/react/24/outline';
 
 const baseNavigation = [
@@ -21,8 +24,11 @@ const baseNavigation = [
   { name: 'Quizzes', href: '/quizzes', icon: BookOpenIcon },
   { name: 'Mock Interviews', href: '/interviews', icon: VideoCameraIcon },
   { name: 'Study Roadmap', href: '/roadmap', icon: AcademicCapIcon },
+  { name: 'Study Sessions', href: '/study-sessions', icon: ClockIcon },
   { name: 'Resume', href: '/resume', icon: DocumentTextIcon },
   { name: 'HR Answers', href: '/hr-answers', icon: ChatBubbleLeftRightIcon },
+  { name: 'AI Insights', href: '/ai-insights', icon: SparklesIcon },
+  { name: 'Job Search', href: '/job-search', icon: BriefcaseIcon },
   { name: 'Analytics', href: '/analytics', icon: ChartBarIcon },
   { name: 'Profile', href: '/profile', icon: UserCircleIcon },
 ];

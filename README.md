@@ -36,6 +36,18 @@ A comprehensive, full-stack web application designed to help students prepare ef
 - 📄 **Resume Review** - NLP-based resume evaluation
 - 💬 **HR Answer Analysis** - Evaluate HR question responses
 - 🎤 **AI Mock Interviews** - Simulated interview practice
+- 🤖 **AI Insights** - Personalized AI recommendations
+- 💼 **Job Search** - Track applications and get recommendations
+- ⏱️ **Study Sessions** - Log and track study time
+
+### AI/ML & NLP Features
+- 📄 **Resume Analysis** - ATS scoring, skill extraction, improvement suggestions
+- 📄 **Resume-Job Matching** - Compare resume against job descriptions
+- 💼 **Company Tips** - Preparation tips for Google, Amazon, Microsoft, etc.
+- 🧠 **Weak Area Analysis** - AI analyzes quiz performance to find weak spots
+- 📅 **Study Plan Generator** - Personalized study schedules
+- 💬 **HR Answer Evaluation** - Score and feedback on HR responses
+- 🎤 **AI Mock Interviews** - Generate and evaluate practice interviews
 
 ### Admin / TPO Dashboard
 - 👥 **Batch-level Monitoring** - Track entire batch performance
